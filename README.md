@@ -9,7 +9,7 @@
    <div class="wrapper" >
     <h1> Biodata Diri </h1>
     <td rowspan="5"><img src="elsa.jpg" width="200px"></td>
-    <table class="table">
+ 
         <body>
             <tr>
                 <td> Nama</td>
